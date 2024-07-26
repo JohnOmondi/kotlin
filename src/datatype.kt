@@ -15,6 +15,12 @@ println(greeting)
 println(isKotlinInteresting)
 
 
+    //typecasting
+    var result = number.toDouble()
+    println(result)
+    var output = mydecimal.toInt()
+    println(output)
+
 
 
 
